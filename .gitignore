@@ -1,3 +1,21 @@
+# Настройки PyCharm
+.idea/
+.vscode/
+
+# Временные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+venv/
+env/
+.env
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
